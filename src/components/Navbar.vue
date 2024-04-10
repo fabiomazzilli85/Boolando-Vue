@@ -20,7 +20,7 @@ export default {
                 <li>
                     <a href="#">Bambino</a>
                 </li>
-                <img class="logo" src="/boolean-logo.png" width="90px" alt="">
+                <img class="logo" src="./boolean-logo.png" width="90px" alt="">
             </ul>
             </div>
         </nav>
