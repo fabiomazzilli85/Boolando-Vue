@@ -18,5 +18,5 @@ export default {
 
 <style lang="scss">
 /* Stili CSS */
-@use '/style/general';
+@use './style/general';
 </style>
