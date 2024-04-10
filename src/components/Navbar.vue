@@ -34,7 +34,7 @@ export default {
         text-transform: uppercase;}  
     }
 
-    .main-nav {
+    .main_nav {
         background-color: #8CB9BD;
     }
 </style>
