@@ -22,7 +22,7 @@ export default {
                 </li>
             </ul>
             </div>
-            <img class="logo" src="boolean-logo.png" alt="Logo Azienda">
+            <img class="logo" src="/boolean-logo.png.svg" alt="">
         </nav>
 </template>
 
