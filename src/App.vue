@@ -15,6 +15,8 @@ export default {
 </script>
 
 <template>
+
+<Navbar />
 </template>
 
 <style lang="scss">
