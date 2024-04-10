@@ -35,6 +35,7 @@ li {
     list-style: none;
 a  {text-decoration: none;
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;}  
 }
 
