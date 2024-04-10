@@ -1,5 +1,10 @@
 <script>
-
+export default {
+  created() {
+    console.log('Componente navbar creato.');
+    // Essendo questo componente una navbar, non saprei che script eseguire se non un banalissimo console.log.
+  }
+}
 </script>
 
 <template>
