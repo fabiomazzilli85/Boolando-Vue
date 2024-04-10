@@ -41,5 +41,9 @@ a  {text-decoration: none;
 .main_nav {
     background-color: #8CB9BD;
     width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 15px;
 }
 </style>
