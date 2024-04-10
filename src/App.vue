@@ -1,5 +1,9 @@
-<script setup>
-import Navbar from './components/Navbar.vue'
+<template>
+  <Navbar />
+</template>
+
+<script>
+import Navbar from './components/Navbar.vue';
 
 export default {
   // Registro il componente.
@@ -7,17 +11,11 @@ export default {
     Navbar
   },
   data() {
-    return {
-      
-    }
+    return {}
   }
 }
 </script>
 
-<template>
-
-<Navbar />
-</template>
-
 <style lang="scss">
+/* Stili CSS */
 </style>
