@@ -20,13 +20,15 @@ export default {
                 <li>
                     <a href="#">Bambino</a>
                 </li>
+                <img class="logo" src="/boolean-logo.png" width="90px" alt="">
             </ul>
             </div>
-            <img class="logo" src="/boolean-logo.png" alt="">
         </nav>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
+@use '@/style/partial/layout' as *;
+
     li {
         list-style: none;
     a  {text-decoration: none;
