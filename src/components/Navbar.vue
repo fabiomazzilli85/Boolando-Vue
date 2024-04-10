@@ -26,5 +26,14 @@ export default {
 </template>
 
 <style lang="scss">
+    li {
+        list-style: none;
+    a  {text-decoration: none;
+        color: white;
+        text-transform: uppercase;}  
+    }
 
+    .main-nav {
+        background-color: #8CB9BD;
+    }
 </style>
