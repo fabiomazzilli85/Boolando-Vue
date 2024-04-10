@@ -40,5 +40,6 @@ a  {text-decoration: none;
 
 .main_nav {
     background-color: #8CB9BD;
+    width: 100%;
 }
 </style>
