@@ -21,6 +21,7 @@ export default {
                     <a href="#">Bambino</a>
                 </li>
             </ul>
+            </div>
             <img class="logo" src="boolean-logo.png" alt="Logo Azienda">
         </nav>
 </template>
