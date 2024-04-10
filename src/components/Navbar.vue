@@ -29,16 +29,16 @@ export default {
 </template>
 
 <style lang="scss" scoped>
-@use '@/style/partial/layout' as *;
+@use '../style/partial/layout';
 
-    li {
-        list-style: none;
-    a  {text-decoration: none;
-        color: white;
-        text-transform: uppercase;}  
-    }
+li {
+    list-style: none;
+a  {text-decoration: none;
+    color: white;
+    text-transform: uppercase;}  
+}
 
-    .main_nav {
-        background-color: #8CB9BD;
-    }
+.main_nav {
+    background-color: #8CB9BD;
+}
 </style>
