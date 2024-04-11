@@ -37,6 +37,10 @@
     position: relative;
 }
 
+.image_card {
+    padding: 20px;
+}
+
 .image_card .image_second {
     display: none;
 }
