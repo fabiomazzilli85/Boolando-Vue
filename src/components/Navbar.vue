@@ -50,5 +50,6 @@ a  {text-decoration: none;
     align-items: center;
     gap: 20px;
     padding: 15px;
+    margin: 10px 0;
 }
 </style>
