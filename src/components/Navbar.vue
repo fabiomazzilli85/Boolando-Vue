@@ -20,9 +20,7 @@ export default {
                 <li>
                     <a href="#">Bambino</a>
                 </li>
-                <li>
-                    <img class="logo" src="/boolean-logo.png" alt="">
-                </li>
+                <img class="logo" src="/boolean-logo.png" alt="">
             </ul>
             </div>
         </nav>
@@ -38,7 +36,7 @@ a  {text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;}  
 .logo {
-    width: 65px;
+    width: 75px;
     display: block;
     align-items: center;}
 }
@@ -49,7 +47,7 @@ a  {text-decoration: none;
     display: flex;
     align-items: center;
     gap: 20px;
-    padding: 15px;
-    margin: 10px 0;
+    padding: 25px;
+    margin-bottom: 50px;
 }
 </style>
