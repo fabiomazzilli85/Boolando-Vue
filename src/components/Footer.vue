@@ -31,6 +31,7 @@ h3 {
 footer {
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
+    margin: 10px 0;
 }
 
 .background_footer {
