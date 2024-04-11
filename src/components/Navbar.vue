@@ -42,7 +42,8 @@ a  {text-decoration: none;
 }
 
 .main_nav {
-    background-color: #8CB9BD;
+    background-color: #1F2544;
+    color: white;
     width: 100%;
     display: flex;
     align-items: center;
