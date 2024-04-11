@@ -27,6 +27,8 @@ export default {
 h3 {
     text-align: center;
     padding-top: 15px;
+    color: white;
+    margin: 10px 0;
 }
 
 .logo {
@@ -41,7 +43,8 @@ footer {
 }
 
 .background_footer {
-    background-color: #8CB9BD;
+    background-color: #1F2544;
+    color: white;
     width: 100%;
 
 }
