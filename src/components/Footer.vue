@@ -26,7 +26,7 @@ export default {
 <style>
 h3 {
     text-align: center;
-    padding: 20px;
+    padding-top: 15px;
 }
 
 .logo {
@@ -35,9 +35,9 @@ h3 {
 }
 
 footer {
+    margin-top: 50px;
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
-    margin: 10px 0;
 }
 
 .background_footer {
