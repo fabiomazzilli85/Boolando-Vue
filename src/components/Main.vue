@@ -11,8 +11,8 @@
                 
                 <div class="image_card section_margin">
                     <div class="image_position">
-                        <img class="image_size image_first" src="./img/1.webp" alt="Foto Modello Levi's">
-                        <img class="image_size image_second" src="./img/1b.webp" alt="Foto Modello Levi's">
+                        <img class="image_size image_first" src="/1.webp" alt="Foto Modello Levi's">
+                        <img class="image_size image_second" src="/1b.webp" alt="Foto Modello Levi's">
                         <div class="sconto">-50%</div>
                         <div class="sostenibilità">Sostenibilità</div>
                         <div class="heart">&hearts;</div>
