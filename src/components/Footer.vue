@@ -16,6 +16,7 @@ export default {
                 <div>Informazioni legali</div>
                 <div>Informazioni sulla Privacy</div>
                 <div>Diritto di Recesso</div>
+                <img class="logo" src="/boolean-logo.png" alt="">
             </div>
         </div>
     </div>
@@ -26,6 +27,11 @@ export default {
 h3 {
     text-align: center;
     padding: 20px;
+}
+
+.logo {
+    display: block;
+    width: 75px;
 }
 
 footer {
