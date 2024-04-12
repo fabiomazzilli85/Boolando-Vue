@@ -20,7 +20,7 @@ export default {
         </div>
 
         <div>{{ product.brand }}</div>
-        <h2>{{ product.title }}</h2>
+        <h2>{{ product.name }}</h2>
         <span class="price">{{ product.price }}</span>
         <span class="old_price">24.99 &euro;</span>
     </div>
